@@ -6,7 +6,7 @@ dist
 .env
 *.db
 *.db-*
-.agets/
+.agents/
 .claude/
 .cursor/
 .logs
