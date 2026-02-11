@@ -6,8 +6,8 @@ dist
 .env
 *.db
 *.db-*
-.agets
-.claude
-.cursor
+.agets/
+.claude/
+.cursor/
 .logs
 .vscode
