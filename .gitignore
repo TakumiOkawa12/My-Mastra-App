@@ -6,3 +6,8 @@ dist
 .env
 *.db
 *.db-*
+.agets
+.claude
+.cursor
+.logs
+.vscode
